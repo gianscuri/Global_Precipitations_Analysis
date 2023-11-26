@@ -1,2 +1,3 @@
-# Global_Precipitations_Analysis_over_Land
+# Understanding Global Precipitation Patterns in the Era of Climate Change
  
+In this project long-term historical precipitation data and climate models are gathered and analyzed to identify changes in precipitation patterns over time and across different regions. In particular the objective is to uncover significant changes in the amount of the precipitations in a 100 years range and changes in the frequency and intensity of extreme precipitation events of the last years.
